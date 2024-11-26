@@ -1,0 +1,13 @@
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\bin\Debug\DB.mdf
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\bin\Debug\DB_log.ldf
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\bin\Debug\Lec08_Database_Event_Delagate.exe.config
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\bin\Debug\Lec08_Database_Event_Delagate.exe
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\bin\Debug\Lec08_Database_Event_Delagate.pdb
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\obj\Debug\Lec08_Database_Event_Delagate.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\obj\Debug\Lec08_Database_Event_Delagate.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\obj\Debug\Lec08_Database_Event_Delagate.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\obj\Debug\Lec08_Database_Event_Delagate.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\obj\Debug\Lec08_Database_Event_Delagate.exe
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\obj\Debug\Lec08_Database_Event_Delagate.pdb
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\obj\Debug\Lec08_Database_Event_Delagate.FormProduct.resources
+C:\Users\Sebastian\source\repos\Lec08_Database_Event_Delagate\Lec08_Database_Event_Delagate\obj\Debug\Lec08_Database_Event_Delagate.FormMain.resources
